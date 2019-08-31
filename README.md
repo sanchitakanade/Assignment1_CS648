@@ -1,7 +1,7 @@
 >Name: Sanchita Kanade  
 Red ID: 822108710  
-Instructor Name: Zak Ruvalcaba
-Class: CS648.01 Modern Web Development Frameworks Fall 2019
+Instructor Name: Zak Ruvalcaba  
+Class: CS648.01 Modern Web Development Frameworks Fall 2019  
 File: README.md
 	 
 # Assignment1
