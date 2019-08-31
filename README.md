@@ -6,7 +6,7 @@ File: README.md
 	 
 # Assignment1
  
-* This is a simple static web page for **Vecta Corporation's** website.
+* This assignment contains a simple static web page for **Vecta Corporation's** website.
 * It provides information about Vecta Corporation's business, information about software solutions they provide for their clients,
 customer testimonials or customer appreciation for Vecta Corporation's work, contact details of the company and 
 brief introduction about management team. 
